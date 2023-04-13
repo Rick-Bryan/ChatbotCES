@@ -1,0 +1,14 @@
+2023/04/13-17:25:34.450 674 Reusing MANIFEST C:\Users\T.I\Desktop\ChatCeS\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2023/04/13-17:25:34.454 674 Recovering log #10
+2023/04/13-17:25:34.455 674 Reusing old log C:\Users\T.I\Desktop\ChatCeS\tokens\session-name\Default\Local Storage\leveldb/000010.log 
+2023/04/13-17:27:34.921 674 Level-0 table #13: started
+2023/04/13-17:27:34.924 674 Level-0 table #13: 17280 bytes OK
+2023/04/13-17:27:34.926 674 Delete type=0 #10
+2023/04/13-17:27:34.927 674 Compacting 4@0 + 0@1 files
+2023/04/13-17:27:34.930 674 Generated table #14@0: 51 keys, 3726 bytes
+2023/04/13-17:27:34.930 674 Compacted 4@0 + 0@1 files => 3726 bytes
+2023/04/13-17:27:34.931 674 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/04/13-17:27:34.932 674 Delete type=2 #3
+2023/04/13-17:27:34.932 674 Delete type=2 #7
+2023/04/13-17:27:34.932 674 Delete type=2 #9
+2023/04/13-17:27:34.932 674 Delete type=2 #13

@@ -1,0 +1,24 @@
+2023/04/13-17:34:06.173 1ec0 Creating DB C:\Users\T.I\Desktop\ChatCeS\tokens\Chatbot C&S\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/04/13-17:34:06.179 1ec0 Reusing MANIFEST C:\Users\T.I\Desktop\ChatCeS\tokens\Chatbot C&S\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/13-17:34:06.325 1ec0 Level-0 table #5: started
+2023/04/13-17:34:06.349 1ec0 Level-0 table #5: 7376 bytes OK
+2023/04/13-17:34:06.353 1ec0 Delete type=0 #3
+2023/04/13-17:34:06.355 4188 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/13-17:35:12.203 4178 Level-0 table #7: started
+2023/04/13-17:35:12.313 4178 Level-0 table #7: 1074833 bytes OK
+2023/04/13-17:35:12.315 4178 Delete type=0 #4
+2023/04/13-17:35:48.769 1ec0 Compacting 1@1 + 1@2 files
+2023/04/13-17:35:48.849 1ec0 Generated table #8@1: 12732 keys, 601550 bytes
+2023/04/13-17:35:48.849 1ec0 Compacted 1@1 + 1@2 files => 601550 bytes
+2023/04/13-17:35:48.850 1ec0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/13-17:37:21.750 1ec0 Level-0 table #10: started
+2023/04/13-17:37:21.798 1ec0 Level-0 table #10: 1124719 bytes OK
+2023/04/13-17:37:21.800 1ec0 Delete type=2 #5
+2023/04/13-17:37:21.800 1ec0 Delete type=0 #6
+2023/04/13-17:37:21.801 1ec0 Delete type=2 #7
+2023/04/13-17:37:21.901 4178 Compacting 1@1 + 1@2 files
+2023/04/13-17:37:21.954 4178 Generated table #11@1: 22531 keys, 1180380 bytes
+2023/04/13-17:37:21.954 4178 Compacted 1@1 + 1@2 files => 1180380 bytes
+2023/04/13-17:37:21.955 4178 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/13-17:37:21.956 4178 Delete type=2 #8
+2023/04/13-17:37:21.956 4178 Delete type=2 #10

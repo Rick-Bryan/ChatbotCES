@@ -1,0 +1,16 @@
+{
+  message: {
+    Arquitetura: 'COMPROVANTE DE RENDIMENTO CES VIGILANCIA',
+    Mensagem: 'Arquivo criado com sucesso'
+  },
+  level: 'error',
+  timestamp: '29-03-2023 17:50:58'
+}
+{
+  message: {
+    Arquitetura: 'COMPROVANTE DE RENDIMENTO CES VIGILANCIA',
+    Mensagem: 'Arquivo criado com sucesso'
+  },
+  level: 'error',
+  timestamp: '29-03-2023 17:53:19'
+}

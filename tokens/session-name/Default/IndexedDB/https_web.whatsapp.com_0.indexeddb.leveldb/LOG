@@ -1,0 +1,7 @@
+2023/04/13-17:29:48.540 3170 Reusing MANIFEST C:\Users\T.I\Desktop\ChatCeS\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/13-17:29:48.540 3170 Recovering log #354
+2023/04/13-17:29:48.565 3170 Reusing old log C:\Users\T.I\Desktop\ChatCeS\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000354.log 
+2023/04/13-17:32:48.078 3170 Compacting 1@1 + 1@2 files
+2023/04/13-17:32:49.699 3170 Generated table #358@1: 21880 keys, 1169562 bytes
+2023/04/13-17:32:49.699 3170 Compacted 1@1 + 1@2 files => 1169562 bytes
+2023/04/13-17:32:50.048 3170 compacted to: files[ 0 0 1 0 0 0 0 ]
